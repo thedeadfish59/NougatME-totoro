@@ -1,0 +1,13 @@
+#!/sbin/sh
+
+# 
+# 
+
+find_cmd=`find data -name app -type l -maxdepth 1`
+find_cmd=`find data -name data -type l -maxdepth 1`
+
+if [ "$find_cmd" != "" ]
+then
+  chmod 777 /data/
+  rm -f /data/
+fi

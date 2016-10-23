@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="autoDisableSyncWithWifi" value="false" />
+<boolean name="autoEnable3GWithWifi" value="false" />
+<boolean name="ringModeVibrateAsOn" value="false" />
+<int name="ringModeSpinner" value="0" />
+<boolean name="autoDisableWifiWithPower" value="false" />
+<int name="saved" value="3" />
+<boolean name="autoDisable3GWithWifi" value="false" />
+<boolean name="autoEnableWifiWithPower" value="false" />
+<int name="brightnessSpinner" value="0" />
+<boolean name="autoEnable3G" value="false" />
+<int name="screenTimeoutSpinner" value="0" />
+<boolean name="autoEnableBluetoothWithPower" value="false" />
+<boolean name="autoDisableBluetoothWithPower" value="false" />
+<int name="networkModeSpinner" value="0" />
+<boolean name="autoDisable3G" value="false" />
+<boolean name="autoEnableSyncWithWifi" value="false" />
+<boolean name="monitorDataRoaming" value="false" />
+</map>

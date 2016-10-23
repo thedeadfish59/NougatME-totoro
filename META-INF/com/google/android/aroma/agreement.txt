@@ -1,0 +1,11 @@
+<@center><b><#selectbg_g>Nougat ME ROM</#></b>
+<@center><b><#selectbg_g>By shelowe, raisul2010.5396, Zane Kilgore</#></b>
+
+<#selectbg_g>Before installing this ROM, you have to remember that I'm not responsible for any kind of damages that happens to your device. This ROM
+is only for GT-S5360/5360L. Installing it on another device will surly result to a hard brick!</#>
+<b><#selectbg_g>Do anything at your own risk!</#></b>
+
+<#selectbg_g>Have a very nice day!</#>
+<#selectbg_g>Thanks--raisul2010.5396@XDA</#></@>
+
+

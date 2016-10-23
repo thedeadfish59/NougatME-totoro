@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="folder_preview">0</string>
+<string name="drawer_horizontal_margin">0</string>
+<boolean name="show_menu_preferences" value="true" />
+<string name="desktop_scrolling_cache">2</string>
+<boolean name="desktop_infinite_scrolling" value="true" />
+<string name="desktop_transition_effect">0</string>
+<boolean name="dock_as_overlay" value="true" />
+<string name="pinch_out">DO_NOTHING</string>
+<string name="drawer_style">1</string>
+<boolean name="show_menu_edit_screens" value="true" />
+<string name="dock_horizontal_margin">3</string>
+<string name="double_tap">DO_NOTHING</string>
+<boolean name="show_drawer_indicator" value="false" />
+<string name="drawer_open_close_animation">1</string>
+<boolean name="show_menu_manage_apps" value="true" />
+<string name="dock_pages">1</string>
+<boolean name="autohide_dock_indicator" value="true" />
+<boolean name="show_dock_indicator" value="false" />
+<int name="drawer_label_color" value="-14738147" />
+<string name="drawer_transition_effect">1</string>
+<string name="home_key_action">DO_NOTHING</string>
+<string name="long_press_menu_key">SETTINGS</string>
+<string name="dock_vertical_margin">1</string>
+<string name="drawer_scrolling_cache">2</string>
+<int name="dock_icon_size" value="100" />
+<string name="desktop_vertical_margin">0</string>
+<string name="swipe_up">DO_NOTHING</string>
+<boolean name="enable_dock" value="true" />
+<string name="swipe_down">DO_NOTHING</string>
+<boolean name="show_desktop_indicator" value="false" />
+<boolean name="wallpaper_scrolling" value="true" />
+<boolean name="show_menu_lock_desktop" value="true" />
+<string name="drawer_hide_apps">com.aryan.nplatlogo/com.aryan.nplatlogo.PlatLogoActivity;de.robv.android.xposed.mods.appsettings/de.robv.android.xposed.mods.appsettings.XposedModActivity;cz.mobilesoft.callistics/cz.mobilesoft.callistics.MainActivity;com.mobint.hololauncher/com.mobint.hololauncher.Launcher;tk.eatheat.pie/tk.eatheat.pie.PieSettings;ridmik.keyboard/net.hasnath.android.habijabi.MainActivity</string>
+<string name="drawer_tab_icon">1</string>
+<string name="desktop_horizontal_margin">0</string>
+<string name="folder_background">1</string>
+<boolean name="autohide_drawer_indicator" value="true" />
+<string name="dock_icons">5</string>
+<string name="two_fingers_swipe_down">DO_NOTHING</string>
+<string name="pinch_in">PREVIEWS</string>
+<boolean name="enable_scrollable_widgets" value="true" />
+<string name="screen_orientation">1</string>
+<string name="two_fingers_swipe_up">DO_NOTHING</string>
+<boolean name="join_all_tabs" value="true" />
+<boolean name="drawer_infinite_scrolling" value="true" />
+<boolean name="desktop_labels_in_single_line" value="true" />
+<boolean name="auto_stretch" value="true" />
+<boolean name="home_key_to_default" value="true" />
+<boolean name="hide_desktop_label_shadow" value="true" />
+</map>

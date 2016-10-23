@@ -1,0 +1,9 @@
+================================
+          Changelog
+================================
+5th  release
+--3G Fixes
+--Framework modifications
+--Bootloops fixed(Or reduced)
+
+and many more as on xda!

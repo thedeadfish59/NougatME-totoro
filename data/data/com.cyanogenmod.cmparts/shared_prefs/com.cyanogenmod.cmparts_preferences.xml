@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="pref_status_bar_am_pm">2</string>
+<boolean name="pref_lockscreen_custom_app_toggle" value="true" />
+<boolean name="expanded_hide_scrollbar" value="true" />
+<string name="pref_status_bar_carrier_label_custom">CyanogenMod 7</string>
+<string name="pref_ringlock_style">1</string>
+<boolean name="pref_lockscreen_ring_unlock_middle_toggle" value="true" />
+<boolean name="pref_button_toggleSleepMode" value="false" />
+<boolean name="pref_button_toggleScreenTimeout" value="true" />
+<boolean name="pref_button_toggleMediaNext" value="true" />
+<boolean name="pref_button_toggleAirplane" value="true" />
+<boolean name="pref_lockscreen_now_playing" value="true" />
+<string name="pref_lockscreen_widgets_layout">2</string>
+<boolean name="pref_status_bar_compact_carrier" value="true" />
+<string name="pref_status_bar_cm_signal">0</string>
+<string name="pref_status_bar_carrier_label">1</string>
+<string name="lockscreen_calendar_lookahead">10800000</string>
+<string name="lockscreen_calendar_show_location">0</string>
+<boolean name="expanded_widget" value="true" />
+<string name="pref_lockscreen_music_headset">0</string>
+<string name="pref_rotary_style">1</string>
+<boolean name="pref_lockscreen_album_art" value="true" />
+<string name="pref_status_bar_battery">0</string>
+<boolean name="pref_button_toggleMobileData" value="true" />
+<boolean name="pref_button_toggleMediaPlayPause" value="true" />
+<boolean name="pref_button_toggleNetworkMode" value="true" />
+<boolean name="pref_button_toggleAutoRotate" value="true" />
+<boolean name="expanded_hide_indicator" value="true" />
+<string name="expanded_haptic_feedback">2</string>
+<boolean name="pref_status_bar_clock" value="true" />
+<boolean name="pref_button_toggleWifiAp" value="true" />
+<boolean name="pref_button_toggleSync" value="true" />
+<string name="pref_in_call_style">4</string>
+<string name="lockscreen_calendar_show_description">0</string>
+<boolean name="pref_button_toggleLockScreen" value="false" />
+<boolean name="pref_status_bar_headset" value="true" />
+<boolean name="pref_button_toggleBrightness" value="false" />
+<boolean name="lockscreen_music_controls" value="true" />
+<boolean name="expanded_hide_onchange" value="true" />
+<string name="pref_lockscreen_style">5</string>
+<boolean name="pref_button_toggleMediaPrevious" value="true" />
+</map>

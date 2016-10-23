@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="toggle2G3G" value="0" />
+<int name="toggleAirplane" value="0" />
+<int name="lastButton" value="6" />
+<int name="toggleSound" value="0" />
+<int name="toggleBrightness" value="6" />
+<int name="toggleFlashlight" value="0" />
+<int name="saved" value="3" />
+<int name="toggleLockScreen" value="0" />
+<int name="toggleWifiAp" value="0" />
+<int name="toggleGPS" value="3" />
+<int name="toggleAutoRotate" value="0" />
+<int name="toggleBluetooth" value="2" />
+<int name="toggleSync" value="5" />
+<int name="toggleWifi" value="1" />
+<int name="toggleData" value="4" />
+<boolean name="useRoundCorners" value="true" />
+<int name="toggleScreenTimeout" value="0" />
+<int name="backgrounImage" value="0" />
+<boolean name="useVertical" value="false" />
+<int name="toggleWimax" value="0" />
+</map>
