@@ -1,6 +1,13 @@
 # NougatME Material Themed ROM for Samsung Galaxy Y GT-S5360 (Based on CyanogenMOD 7.2)
 
-About CyanogenMOD 7.2
+#About Nougat ME
+
+This is a ROM which came originally from Lollipop ME ROM source which was released years ago for LG P350, by shelowe@XDA , 
+then developed and themed by Zane Kilgore@XDA and me(raisul2010.5396@XDA) to make it themed like Android 7.0 Nougat. 
+We strongly recommend to put our names on credits if you use our works, if you are thinking to use ROM source files
+
+
+#About CyanogenMOD 7.2
 
 CyanogenMod is a free, community built, aftermarket firmware distribution of Android 2.3.7 (GB),
 which is designed to increase performance and reliability over stock Android for your device.
@@ -13,11 +20,6 @@ All the source code for CyanogenMod is available in the broadcomCM Github repo.
 You can also view the Changelog for a full list of changes & features.
 
 
-#About Nougat ME
-
-This is a ROM which came originally from Lollipop ME ROM source which was released years ago for LG P350, by shelowe@XDA , 
-then developed and themed by Zane Kilgore@XDA and me(raisul2010.5396@XDA) to make it themed like Android 7.0 Nougat. 
-We strongly recommend to put our names on credits if you use our works, if you are thinking to use ROM source files
 
 
 #Features
